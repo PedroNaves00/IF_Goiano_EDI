@@ -10,12 +10,10 @@
   
 ## About / Sobre 📌
   
-Repositório usado para guardar atividades e estudos sobre a matéria de EDI.
+- Repositório usado para guardar atividades e estudos sobre a matéria de EDI.
 
-<br>
-Repository used to keep activities and studies about the EDI university subject
-<br>
-  
+- Repository used to keep activities and studies about the EDI university subject
+------------------  
 ## School / Escola  📚
 
 [IF-Goiano Website](https://ifgoiano.edu.br/home/index.php)
