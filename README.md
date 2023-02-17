@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/bower/l/Mi?style=for-the-badge)
 
  <br>
+ ## About / Sobre 📌
   
 Repositório usado para guardar atividades e estudos sobre a matéria de EDI.
 
