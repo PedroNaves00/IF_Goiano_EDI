@@ -3,11 +3,10 @@
 
   <img src="logo IF-Goiano - cópia 2.png" alt="logo IF-Goiano - cópia 2.png">
  
- ---
+ ----------
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) 
 ![License](https://img.shields.io/bower/l/Mi?style=for-the-badge)
-
- <br>
+----------
   
 ## About / Sobre 📌
   
