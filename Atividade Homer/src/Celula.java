@@ -15,7 +15,7 @@ public class Celula {
             this.Elemento = ele;
         }
 
-        // Métodos
+        // Métods
         void setProxima(Celula prox){
             this.Proxima = prox;
         }

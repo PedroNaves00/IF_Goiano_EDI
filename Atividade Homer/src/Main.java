@@ -10,7 +10,6 @@ public class Main {
         Object NedFlander = new Object();
         Object SrBurns = new Object();
 
-
         ListaDupla Lista = new ListaDupla();
         Lista.Adiciona(Homer);
         Lista.Adiciona(Marge);
