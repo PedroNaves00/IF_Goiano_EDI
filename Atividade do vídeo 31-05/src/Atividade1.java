@@ -1,9 +1,8 @@
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Random;
-import java.util.ListIterator;
 
-public class Main {
+public class Atividade1 {
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<Integer>();
         Random generator = new Random();
